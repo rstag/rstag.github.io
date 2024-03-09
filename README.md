@@ -23,20 +23,20 @@ A recent graduate student at NJIT completed Masters in Computer Science. The var
 
 ## Experience
 
-### <div style="text-align:left;"> **Java Engineer,** CloudFrame *<div style="float:right;">Sep 2022 - Present</div>* </div>
+###  **Java Engineer,** CloudFrame                                            (*Sep 2022 - Present*)
 
 As a team we transformed COBOL into high quality cloud-native Java code to be used by DevOps processes. We designed automated tools that allow organizations to modernize JCL/COBOL applications incrementally with no risk. I also work with the Product On-Boarding Team, where I promote our merchandise to potential customers.
 
 Technology Used - Java, Python, Mainframe - Cobol, IDEAL, JCL, DB2
 
 
-### <div style="text-align:left;"> **Innovation Intern,** New Jersey Transit *<div style="float:right;">Jun 2022 - Aug 2022</div>* </div>
+###  **Innovation Intern,** New Jersey Transit                                (*Jun 2022 - Aug 2022*)
 
 As part of the Innovation Team we are working on the new ideas like Wayfinder, Transit-Charge to implement that will help the commuters to travel without worrying about the modes of payments, connections, seats availability during the travel using Ultra-Wide Band technology.
 
 Technology used - React-Native, Node-js, Python
 
-### <div style="text-align:left;"> **Mainframe Developer,** Tata Consultancy Services *<div style="float:right;">Jan 2019 - Aug 2021</div>* </div>
+###  **Mainframe Developer,** Tata Consultancy Services                       (*Jan 2019 - Aug 2021*)
 
 GEAC Y2K - Implemented critical model for transaction date handling within 4 months, thereby ensuring the batch processing does not impacted after year 2020.
 
@@ -46,13 +46,13 @@ Billing Accuracy Model - I have also designed and implemented a model for the Pr
 
 OFF-The-Road(OTR) Project - Control of the unit like unit activation, billing, trading, hold, deletion were decided by the OTR date. Apart from this we are creating daily reports based on HTML and mailing it to a DL group.
 
-### <div style="text-align:left;"> **Digital Analyst,** eClerx Services Ltd *<div style="float:right;">Nov 2018 - Dec 2018</div>* </div>
+###  **Digital Analyst,** eClerx Services Ltd                                (*Nov 2018 - Dec 2018*)
 
 As part of the Innovation Team we are working on the new ideas like Wayfinder, Transit-Charge to implement that will help the commuters to travel without worrying about the modes of payments, connections, seats availability during the travel using Ultra-Wide Band technology.
 
 Technology used - React-Native, Node-js, Python
 
-### <div style="text-align:left;"> **Software Developer,** iConnect Info Solutions Pvt Ltd *<div style="float:right;">Aug 2017 - Jun 2018</div>* </div>
+###  **Software Developer,** iConnect Info Solutions Pvt Ltd                 (*Aug 2017 - Jun 2018*)
 
 HRalign : This android and ios application aims to manage Leave, OD, Shift-change applications with Attendance Regularisation for employees, maintains a econd-level approver for Manager, enables offline and online Check-in & Check-outs with location, manages rights as per roles, and sends department wise notifications.
 
@@ -66,20 +66,21 @@ Technology used - Angular-js, javascript, ionic-angular, MS-SQL Server, Grails, 
 
 ## Project
 
-#### <div style="text-align:left;"> **Artificial Intelligence based student learning evaluation tool** *<div style="float:right;">Sep 2016 - Mar 2017</div>* </div>
+####  **Artificial Intelligence based student learning evaluation tool**    (*Sep 2016 - Mar 2017*)
 
 The main purpose of this tool is to improve the use of artificial intelligence techniques in evaluating a students understanding of a particular topic of study using concept maps. A concept map or conceptual diagram is a diagram that depicts suggested relationships between concepts.
 
 Technology used : Java - swing, MySQL Server.
 
+---
 
 ## Education
 
-### <div style="text-align:left;"> **Master of Science,** Computer Science *<div style="float:right;">Sep 2021 - Dec 2022</div>* </div>
-#### <div style="text-align:left;"> New Jersey Institute of Technology *<div style="float:right;">GPA: 3.75 / 4</div>* </div>
+###  **Master of Science,** Computer Science                              (*Sep 2021 - Dec 2022*)
+####  New Jersey Institute of Technology                                  [*GPA: 3.75 / 4*]
 
-### <div style="text-align:left;"> **Bachelor of Engineering,** Computer Science *<div style="float:right;">Aug 2013 - May 2017</div>* </div>
-#### <div style="text-align:left;"> B. R. Harne College of Engineering and Technology *<div style="float:right;">GPA: 7.75 / 10</div>* </div>
+###  **Bachelor of Engineering,** Computer Science                        (*Aug 2013 - May 2017*)
+####  B. R. Harne College of Engineering and Technology                   [*GPA: 7.75 / 10*]
 
 ---
 
