@@ -1,6 +1,6 @@
 ## About Me
 
-A recent graduate student at NJIT completed Masters in Computer Science. The various projects that I have been a part of have evolved me both personally and professionally
+A recent graduate student at NJIT completed Masters in Computer Science. The various projects that I have been a part of have evolved me both personally and professionally.
 
 ---
 
